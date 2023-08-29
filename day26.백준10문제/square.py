@@ -1,0 +1,6 @@
+x, y, w, h = map(int, input().split())
+x0 = abs(x-0)
+y0 = abs(y-0)
+xw = abs(x-w)
+xh = abs(y-h)
+print(min(x0, y0, xw, xh))
