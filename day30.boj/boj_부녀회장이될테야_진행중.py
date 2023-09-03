@@ -1,3 +1,4 @@
+# DP
 t = int(input()) # 테스트케이스 수
 for i in range(t):
     k = int(input()) # k층
