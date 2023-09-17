@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cb2ee2e-8d32-479b-8d7b-0e9104b6be71" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../day1.list2/10798.reading_col/.cph/.세로읽기.py_a186ae83227d8cd3695fe24b5dc27e59.prob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1.list2/10798.reading_col/세로읽기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1.list2/2566.max/.cph/.최댓값.cpp_06c07474bbd9169fb97bbb84e83bef8a.prob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1.list2/2566.max/.cph/.최댓값.py_4ee33ae0de36906b13670ee16eb21934.prob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1.list2/2566.max/최댓값.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1.list2/2566.max/최댓값.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10.직각삼각형/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10.직각삼각형/.idea/day10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10.직각삼각형/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10.직각삼각형/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10.직각삼각형/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10.직각삼각형/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10.직각삼각형/4153.직각삼각형.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.거스름돈/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.거스름돈/.idea/day11.거스름돈.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.거스름돈/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.거스름돈/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.거스름돈/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.거스름돈/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.거스름돈/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.쇠막대/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.쇠막대/.idea/day11.쇠막대.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.쇠막대/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.쇠막대/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.쇠막대/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.쇠막대/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.쇠막대/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day11.쇠막대/swea.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day12.소인수분해/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day12.소인수분해/.idea/day12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day12.소인수분해/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day12.소인수분해/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day12.소인수분해/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day12.소인수분해/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day12.소인수분해/swea.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day13.계산기3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day13.계산기3/.idea/day13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day13.계산기3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day13.계산기3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day13.계산기3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day13.계산기3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day13.계산기3/swea.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day14.삼성시의버스노선/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day14.삼성시의버스노선/.idea/day14.삼성시의버스노선.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day14.삼성시의버스노선/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day14.삼성시의버스노선/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day14.삼성시의버스노선/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day14.삼성시의버스노선/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day14.삼성시의버스노선/bus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day15.백준/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day15.백준/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day15.백준/.idea/day15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day15.백준/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day15.백준/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day15.백준/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day15.백준/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day15.백준/boj.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day15.백준/boj색종이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day16.딱지치기/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day17.방배정/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day17.방배정/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day17.방배정/.idea/day17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day17.방배정/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day17.방배정/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day17.방배정/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day17.방배정/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day17.방배정/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day18.숫자배열회전/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day18.숫자배열회전/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day18.숫자배열회전/회전.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day19.직사각형네개합집합면적/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day19.직사각형네개합집합면적/.idea/day19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day19.직사각형네개합집합면적/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day19.직사각형네개합집합면적/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day19.직사각형네개합집합면적/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day19.직사각형네개합집합면적/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day19.직사각형네개합집합면적/boj2669.직사각형네개합집합면적.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2.coin/.cph/.동전_0.py_51c3df58d1f6d61b7152d818b5e632fe.prob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2.coin/동전_0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20.종이자르기/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20.종이자르기/.idea/day20.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20.종이자르기/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20.종이자르기/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20.종이자르기/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20.종이자르기/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20.종이자르기/종이자르기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day21.swea자성체/input (1).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day21.swea자성체/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day21.swea자성체/swea.magnetic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day22.수이어가기/.idea/day22.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day22.수이어가기/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day22.수이어가기/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day22.수이어가기/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day22.수이어가기/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day22.수이어가기/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day22.수이어가기/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/boj.빙고_미완.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/gns/GNS_test_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/gns/gns.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/gns/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/ladder1/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/ladder1/ladder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/ladder1/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/농작물.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/단어/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/단어/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/단어/swea.words.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/달팽이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/달팽이gpt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/러시아국기/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/러시아국기/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/러시아국기/sample_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/좌석배정.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/회문/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/회문/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day23.im대비/회문/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day24.파리퇴치3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day24.파리퇴치3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day24.파리퇴치3/.idea/killer_fly.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day24.파리퇴치3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day24.파리퇴치3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day24.파리퇴치3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day24.파리퇴치3/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day24.파리퇴치3/in1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day25.농구경기/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day25.농구경기/.idea/day25.농구경기.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day25.농구경기/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day25.농구경기/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day25.농구경기/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day25.농구경기/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day25.농구경기/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day26.백준10문제/anagram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day26.백준10문제/castleprotector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day26.백준10문제/pc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day26.백준10문제/plus_cycle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day26.백준10문제/reverse_plus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day26.백준10문제/silver_snail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day26.백준10문제/snail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day26.백준10문제/square.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day26.백준10문제/teamname.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day26.백준10문제/하얀칸.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day27.swea/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day27.swea/.idea/day27.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day27.swea/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day27.swea/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day27.swea/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day27.swea/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day27.swea/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day27.swea/세로읽기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day28.boj_step_sqaure_triangle/10101.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day28.boj_step_sqaure_triangle/14215.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day28.boj_step_sqaure_triangle/15894.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day28.boj_step_sqaure_triangle/3009.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day28.boj_step_sqaure_triangle/5073.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day28.boj_step_sqaure_triangle/9063.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day29.boj+swea/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day29.boj+swea/.idea/day29.boj+swea.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day29.boj+swea/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day29.boj+swea/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day29.boj+swea/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day29.boj+swea/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day29.boj+swea/boj_팩토리얼0의개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day29.boj+swea/boj_프린터큐.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day29.boj+swea/swea날짜계산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3.black/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3.black/.idea/day3.black.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3.black/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3.black/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3.black/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3.black/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3.black/black.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day30.boj/boj_부녀회장이될테야_진행중.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day30.boj/hashing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day31.백준피보나치수/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day31.백준피보나치수/.idea/day31.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day31.백준피보나치수/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day31.백준피보나치수/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day31.백준피보나치수/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day31.백준피보나치수/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day31.백준피보나치수/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day31.백준피보나치수/알고리즘수업_피보나치수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/.idea/day32.boj.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/10815.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/14425.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/1735.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/17608.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/18870.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/1934.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/19532.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/25501.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/27433.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/5585.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day32.boj/7785.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day33.boj/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day33.boj/.idea/day33.boj.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day33.boj/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day33.boj/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day33.boj/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day33.boj/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day33.boj/11478.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day33.boj/18258.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day33.boj/28278.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day33.boj/28279.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day33.boj/4134.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day33.boj/4948.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day34.boj/12789.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day34.boj/13909.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day34.boj/15439.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day34.boj/17103.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day34.boj/2346.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day34.boj/2485.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day34.boj/25192.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day34.boj/2670.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day35.boj/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day35.boj/1051.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day35.boj/1076.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day35.boj/15624.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day35.boj/1676.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day35.boj/4150.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day35.boj/5568.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/.idea/day36.boj.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/10699.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/1260.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/1302.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/15964.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/2744.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/2754.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/2986.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/7287.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/90953.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/9461.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day36.boj/bronze5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day37.boj/24511.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day38.boj/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day38.boj/.idea/day38.boj.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day38.boj/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day38.boj/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day38.boj/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day38.boj/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day38.boj/4158.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day39.boj/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day39.boj/.idea/day39.boj.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day39.boj/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day39.boj/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day39.boj/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day39.boj/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day39.boj/11652.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day39.boj/1912.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day39.boj/9613.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4.score/.cph/.점수_계산.py_f3e2ccf70b202aae1a5d19452e305367.prob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4.score/점수_계산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day40.boj/11728.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day40.boj/14425.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day40.boj/1475.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day40.boj/1543.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day40.boj/1564.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day40.boj/3060.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day40.boj/5347.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day40.boj/9656.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day40.boj/9711.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day40.boj/card.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day40.boj/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5.zero/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5.zero/.idea/day5.zero.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5.zero/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5.zero/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5.zero/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5.zero/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5.zero/zero.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day6.easy/.cph/.쉽게_푸는_문제.py_1be189625cd03dadfede31e79f003dff.prob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day6.easy/쉽게_푸는_문제.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day7.소수/.cph/.소수_찾기.py_13982c0dd29183e4d1890bf0677312a5.prob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day7.소수/소수_찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day8.팰린드롬수/.idea/day8.팰린드롬수.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day8.팰린드롬수/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day8.팰린드롬수/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day8.팰린드롬수/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day8.팰린드롬수/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day8.팰린드롬수/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day8.팰린드롬수/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/10773.제로/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/10773.제로/.idea/10773.제로.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/10773.제로/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/10773.제로/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/10773.제로/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/10773.제로/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/10773.제로/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/12789.도키도키간식드리미_문제이해못함/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/12789.도키도키간식드리미_문제이해못함/.idea/12789.도키도키간식드리미.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/12789.도키도키간식드리미_문제이해못함/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/12789.도키도키간식드리미_문제이해못함/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/12789.도키도키간식드리미_문제이해못함/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/12789.도키도키간식드리미_문제이해못함/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/12789.도키도키간식드리미_문제이해못함/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/28278.스택2_시간초과/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/28278.스택2_시간초과/.idea/28278.스택2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/28278.스택2_시간초과/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/28278.스택2_시간초과/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/28278.스택2_시간초과/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/28278.스택2_시간초과/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/28278.스택2_시간초과/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/4949.균형잡힌세상/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/4949.균형잡힌세상/.idea/4949.균형잡힌세상.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/4949.균형잡힌세상/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/4949.균형잡힌세상/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/4949.균형잡힌세상/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/4949.균형잡힌세상/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/4949.균형잡힌세상/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/9012.괄호/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/9012.괄호/.idea/9012.괄호.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/9012.괄호/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/9012.괄호/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/9012.괄호/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/9012.괄호/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day9.스택관련문제/9012.괄호/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2VWiSiYmjiRrW6qMSDoPr1RYqbr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="day43.boj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cb2ee2e-8d32-479b-8d7b-0e9104b6be71" name="Default Changelist" comment="" />
+      <created>1694958240370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694958240370</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
