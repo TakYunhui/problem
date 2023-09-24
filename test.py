@@ -1,11 +1,25 @@
-# 문자의 길이 n , 반복횟수 k
-n, k = map(int, input().split())
-word = input()
-# 문자열에서 각 문자가 최소 k번 반복되면서 연속되어야 올바른 문장이 된다
-# 올바른 문자를 만드는 최소한의 횟수 구하기
+def back(count, now): # 현재 행과 합 넣기
+    global result
 
-# 각 문자별 개수를 구하자
-kind = dict()
-for i in word:
-    kind[i] = kind.get(i, 0) + 1
-print(kind)
+    if count == n:
+        result = min(result, now)
+        return
+
+    if now >= result:
+        return
+
+    for i in range(n):
+        if not visited[i]:
+            visited[i] = 1
+            back(count+1, now + cost[count][i])
+            visited[i] = 0
+
+t = int(input())
+for tc in range(1, t+1):
+    n = int(input()) # 제품 수
+    # 공장 별 생산 비용
+    cost = [list(map(int, input().split())) for _ in range(n)]
+    result = int(1e9)
+    visited = [0] * n
+    back(0, 0)
+    print(f'#{tc} {result}')
