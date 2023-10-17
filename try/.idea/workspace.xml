@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52dd7fb1-607d-4149-8909-527664d60de9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../alpha/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/.idea/alpha.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/24479.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/blackjack/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/medium_avg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/newbie_palindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/n과n이아닌모든수의곱.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/pattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/scores/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/scores/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/scores/scores.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/seroreading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/star.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/swea/swea.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/swea/swea민석이의과제체크.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/swea/swea색칠.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/swea/swea숫자카드.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/swea/swea특별한정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/swea/쉬운거스름돈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/swea간단한369/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/swea스도쿠/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/swea스도쿠/output (1).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/swea스도쿠/스도쿠.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/swea시각덧셈/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/zigzag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/당근포장/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/당근포장/sample_in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha/줄바꾸기.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Ws1tOWzTujKIF8HqgJIAwbdH6G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52dd7fb1-607d-4149-8909-527664d60de9" name="Default Changelist" comment="" />
+      <created>1697506688562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697506688562</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
